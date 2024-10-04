@@ -1,0 +1,470 @@
+CRITICAL - 2024-07-30 10:56:57 --> Invalid file: payslip_view_template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payslip_view_template.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('payslip_view_template', [], true)
+ 3 APPPATH\Controllers\Main.php(773): view('payslip_view_template', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->print_all_payslips()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 10:56:59 --> Invalid file: payslip_view_template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payslip_view_template.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('payslip_view_template', [], true)
+ 3 APPPATH\Controllers\Main.php(773): view('payslip_view_template', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->print_all_payslips()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 10:57:00 --> Invalid file: payslip_view_template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payslip_view_template.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('payslip_view_template', [], true)
+ 3 APPPATH\Controllers\Main.php(773): view('payslip_view_template', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->print_all_payslips()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 10:57:03 --> Invalid file: payslip_view_template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payslip_view_template.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('payslip_view_template', [], true)
+ 3 APPPATH\Controllers\Main.php(773): view('payslip_view_template', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->print_all_payslips()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 10:59:40 --> Invalid file: payslip_view_template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payslip_view_template.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('payslip_view_template', [], true)
+ 3 APPPATH\Controllers\Main.php(773): view('payslip_view_template', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->print_all_payslips()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 10:59:41 --> Invalid file: payslip_view_template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payslip_view_template.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('payslip_view_template', [], true)
+ 3 APPPATH\Controllers\Main.php(773): view('payslip_view_template', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->print_all_payslips()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 10:59:41 --> Invalid file: payslip_view_template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payslip_view_template.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('payslip_view_template', [], true)
+ 3 APPPATH\Controllers\Main.php(773): view('payslip_view_template', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->print_all_payslips()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 10:59:41 --> Invalid file: payslip_view_template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payslip_view_template.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('payslip_view_template', [], true)
+ 3 APPPATH\Controllers\Main.php(773): view('payslip_view_template', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->print_all_payslips()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 10:59:42 --> Invalid file: payslip_view_template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payslip_view_template.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('payslip_view_template', [], true)
+ 3 APPPATH\Controllers\Main.php(773): view('payslip_view_template', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->print_all_payslips()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 10:59:42 --> Invalid file: payslip_view_template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payslip_view_template.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('payslip_view_template', [], true)
+ 3 APPPATH\Controllers\Main.php(773): view('payslip_view_template', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->print_all_payslips()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 10:59:42 --> Invalid file: payslip_view_template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payslip_view_template.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('payslip_view_template', [], true)
+ 3 APPPATH\Controllers\Main.php(773): view('payslip_view_template', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->print_all_payslips()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 10:59:58 --> Invalid file: payslip_view_template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payslip_view_template.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('payslip_view_template', [], true)
+ 3 APPPATH\Controllers\Main.php(762): view('payslip_view_template', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 10:59:59 --> Invalid file: payslip_view_template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payslip_view_template.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('payslip_view_template', [], true)
+ 3 APPPATH\Controllers\Main.php(762): view('payslip_view_template', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 10:59:59 --> Invalid file: payslip_view_template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payslip_view_template.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('payslip_view_template', [], true)
+ 3 APPPATH\Controllers\Main.php(762): view('payslip_view_template', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:00:00 --> Invalid file: payslip_view_template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payslip_view_template.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('payslip_view_template', [], true)
+ 3 APPPATH\Controllers\Main.php(762): view('payslip_view_template', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:00:00 --> Invalid file: payslip_view_template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payslip_view_template.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('payslip_view_template', [], true)
+ 3 APPPATH\Controllers\Main.php(762): view('payslip_view_template', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:00:00 --> Invalid file: payslip_view_template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payslip_view_template.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('payslip_view_template', [], true)
+ 3 APPPATH\Controllers\Main.php(762): view('payslip_view_template', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:00:00 --> Invalid file: payslip_view_template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payslip_view_template.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('payslip_view_template', [], true)
+ 3 APPPATH\Controllers\Main.php(762): view('payslip_view_template', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:00:54 --> Invalid file: payslip_view_template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payslip_view_template.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('payslip_view_template', [], true)
+ 3 APPPATH\Controllers\Main.php(762): view('payslip_view_template', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:00:54 --> Invalid file: payslip_view_template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payslip_view_template.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('payslip_view_template', [], true)
+ 3 APPPATH\Controllers\Main.php(762): view('payslip_view_template', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:00:54 --> Invalid file: payslip_view_template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payslip_view_template.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('payslip_view_template', [], true)
+ 3 APPPATH\Controllers\Main.php(762): view('payslip_view_template', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:01:49 --> Invalid file: payslip_view_template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payslip_view_template.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('payslip_view_template', [], true)
+ 3 APPPATH\Controllers\Main.php(762): view('payslip_view_template', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:01:49 --> Invalid file: payslip_view_template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payslip_view_template.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('payslip_view_template', [], true)
+ 3 APPPATH\Controllers\Main.php(762): view('payslip_view_template', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:02:31 --> Invalid file: payslip_view_template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payslip_view_template.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('payslip_view_template', [], true)
+ 3 APPPATH\Controllers\Main.php(762): view('payslip_view_template', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:02:31 --> Invalid file: payslip_view_template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payslip_view_template.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('payslip_view_template', [], true)
+ 3 APPPATH\Controllers\Main.php(773): view('payslip_view_template', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->print_all_payslips()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:08:48 --> Invalid file: payslip_view_template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payslip_view_template.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('payslip_view_template', [], true)
+ 3 APPPATH\Controllers\Main.php(762): view('payslip_view_template', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:08:48 --> Invalid file: payslip_view_template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payslip_view_template.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('payslip_view_template', [], true)
+ 3 APPPATH\Controllers\Main.php(773): view('payslip_view_template', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->print_all_payslips()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:17:47 --> Invalid file: payslip_view_template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payslip_view_template.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('payslip_view_template', [], true)
+ 3 APPPATH\Controllers\Main.php(769): view('payslip_view_template', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->print_all_payslips()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:17:51 --> Undefined array key "code"
+in APPPATH\Views\pages\payslips\payslip_view_template.php on line 60.
+ 1 APPPATH\Views\pages\payslips\payslip_view_template.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "code"', 'APPPATH\\Views\\pages\\payslips\\payslip_view_template.php', 60)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\payslip_view_template.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/payslip_view_template', [], true)
+ 5 APPPATH\Controllers\Main.php(760): view('pages/payslips/payslip_view_template', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:17:51 --> Invalid file: payslip_view_template.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payslip_view_template.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('payslip_view_template', [], true)
+ 3 APPPATH\Controllers\Main.php(769): view('payslip_view_template', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->print_all_payslips()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:19:51 --> Undefined array key "code"
+in APPPATH\Views\pages\payslips\payslip_view_template.php on line 60.
+ 1 APPPATH\Views\pages\payslips\payslip_view_template.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "code"', 'APPPATH\\Views\\pages\\payslips\\payslip_view_template.php', 60)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\payslip_view_template.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/payslip_view_template', [], true)
+ 5 APPPATH\Controllers\Main.php(760): view('pages/payslips/payslip_view_template', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:19:51 --> Undefined array key "code"
+in APPPATH\Views\pages\payslips\payslip_view_template.php on line 60.
+ 1 APPPATH\Views\pages\payslips\payslip_view_template.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "code"', 'APPPATH\\Views\\pages\\payslips\\payslip_view_template.php', 60)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\payslip_view_template.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/payslip_view_template', [], true)
+ 5 APPPATH\Controllers\Main.php(760): view('pages/payslips/payslip_view_template', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:23:32 --> Undefined array key "name"
+in APPPATH\Views\pages\payslips\payslip_view_template.php on line 61.
+ 1 APPPATH\Views\pages\payslips\payslip_view_template.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'APPPATH\\Views\\pages\\payslips\\payslip_view_template.php', 61)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\payslip_view_template.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/payslip_view_template', [], true)
+ 5 APPPATH\Controllers\Main.php(760): view('pages/payslips/payslip_view_template', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:23:36 --> Undefined array key "name"
+in APPPATH\Views\pages\payslips\payslip_view_template.php on line 61.
+ 1 APPPATH\Views\pages\payslips\payslip_view_template.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'APPPATH\\Views\\pages\\payslips\\payslip_view_template.php', 61)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\payslip_view_template.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/payslip_view_template', [], true)
+ 5 APPPATH\Controllers\Main.php(760): view('pages/payslips/payslip_view_template', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:23:36 --> Undefined array key "name"
+in APPPATH\Views\pages\payslips\payslip_view_template.php on line 61.
+ 1 APPPATH\Views\pages\payslips\payslip_view_template.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'APPPATH\\Views\\pages\\payslips\\payslip_view_template.php', 61)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\payslip_view_template.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/payslip_view_template', [], true)
+ 5 APPPATH\Controllers\Main.php(760): view('pages/payslips/payslip_view_template', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:24:03 --> Undefined array key "employee_name"
+in APPPATH\Views\pages\payslips\payslip_view_template.php on line 61.
+ 1 APPPATH\Views\pages\payslips\payslip_view_template.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "employee_name"', 'APPPATH\\Views\\pages\\payslips\\payslip_view_template.php', 61)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\payslip_view_template.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/payslip_view_template', [], true)
+ 5 APPPATH\Controllers\Main.php(760): view('pages/payslips/payslip_view_template', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:26:31 --> Undefined array key "employee_name"
+in APPPATH\Views\pages\payslips\payslip_view_template.php on line 62.
+ 1 APPPATH\Views\pages\payslips\payslip_view_template.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "employee_name"', 'APPPATH\\Views\\pages\\payslips\\payslip_view_template.php', 62)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\payslip_view_template.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/payslip_view_template', [], true)
+ 5 APPPATH\Controllers\Main.php(760): view('pages/payslips/payslip_view_template', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:26:31 --> Undefined array key "employee_name"
+in APPPATH\Views\pages\payslips\payslip_view_template.php on line 62.
+ 1 APPPATH\Views\pages\payslips\payslip_view_template.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "employee_name"', 'APPPATH\\Views\\pages\\payslips\\payslip_view_template.php', 62)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\payslip_view_template.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/payslip_view_template', [], true)
+ 5 APPPATH\Controllers\Main.php(760): view('pages/payslips/payslip_view_template', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:26:58 --> Undefined array key "employee_name"
+in APPPATH\Views\pages\payslips\payslip_view_template.php on line 62.
+ 1 APPPATH\Views\pages\payslips\payslip_view_template.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "employee_name"', 'APPPATH\\Views\\pages\\payslips\\payslip_view_template.php', 62)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\payslip_view_template.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/payslip_view_template', [], true)
+ 5 APPPATH\Controllers\Main.php(760): view('pages/payslips/payslip_view_template', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:26:58 --> Undefined array key "employee_name"
+in APPPATH\Views\pages\payslips\payslip_view_template.php on line 62.
+ 1 APPPATH\Views\pages\payslips\payslip_view_template.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "employee_name"', 'APPPATH\\Views\\pages\\payslips\\payslip_view_template.php', 62)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\payslip_view_template.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/payslip_view_template', [], true)
+ 5 APPPATH\Controllers\Main.php(760): view('pages/payslips/payslip_view_template', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:27:54 --> Array to string conversion
+in APPPATH\Views\pages\payslips\payslip_view_template.php on line 54.
+ 1 APPPATH\Views\pages\payslips\payslip_view_template.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\pages\\payslips\\payslip_view_template.php', 54)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\payslip_view_template.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/payslip_view_template', [], true)
+ 5 APPPATH\Controllers\Main.php(760): view('pages/payslips/payslip_view_template', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:27:54 --> Array to string conversion
+in APPPATH\Views\pages\payslips\payslip_view_template.php on line 54.
+ 1 APPPATH\Views\pages\payslips\payslip_view_template.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\pages\\payslips\\payslip_view_template.php', 54)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\payslip_view_template.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/payslip_view_template', [], true)
+ 5 APPPATH\Controllers\Main.php(760): view('pages/payslips/payslip_view_template', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:33:39 --> Undefined array key "employee_name"
+in APPPATH\Views\pages\payslips\payslip_view_template.php on line 62.
+ 1 APPPATH\Views\pages\payslips\payslip_view_template.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "employee_name"', 'APPPATH\\Views\\pages\\payslips\\payslip_view_template.php', 62)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\payslip_view_template.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/payslip_view_template', [], true)
+ 5 APPPATH\Controllers\Main.php(760): view('pages/payslips/payslip_view_template', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:33:39 --> Undefined array key "employee_name"
+in APPPATH\Views\pages\payslips\payslip_view_template.php on line 62.
+ 1 APPPATH\Views\pages\payslips\payslip_view_template.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "employee_name"', 'APPPATH\\Views\\pages\\payslips\\payslip_view_template.php', 62)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\payslip_view_template.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/payslip_view_template', [], true)
+ 5 APPPATH\Controllers\Main.php(760): view('pages/payslips/payslip_view_template', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:35:50 --> Undefined array key "name"
+in APPPATH\Views\pages\payslips\payslip_view_template.php on line 62.
+ 1 APPPATH\Views\pages\payslips\payslip_view_template.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'APPPATH\\Views\\pages\\payslips\\payslip_view_template.php', 62)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\payslip_view_template.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/payslip_view_template', [], true)
+ 5 APPPATH\Controllers\Main.php(760): view('pages/payslips/payslip_view_template', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:46:39 --> Undefined variable $details
+in APPPATH\Views\pages\payslips\payslip_view_template.php on line 22.
+ 1 APPPATH\Views\pages\payslips\payslip_view_template.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $details', 'APPPATH\\Views\\pages\\payslips\\payslip_view_template.php', 22)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\payslip_view_template.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/payslip_view_template', [], true)
+ 5 APPPATH\Controllers\Main.php(760): view('pages/payslips/payslip_view_template', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:46:39 --> Undefined variable $details
+in APPPATH\Views\pages\payslips\payslip_view_template.php on line 22.
+ 1 APPPATH\Views\pages\payslips\payslip_view_template.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $details', 'APPPATH\\Views\\pages\\payslips\\payslip_view_template.php', 22)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\payslip_view_template.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/payslip_view_template', [], true)
+ 5 APPPATH\Controllers\Main.php(760): view('pages/payslips/payslip_view_template', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-30 11:46:55 --> Undefined array key "name"
+in APPPATH\Views\pages\payslips\payslip_view_template.php on line 62.
+ 1 APPPATH\Views\pages\payslips\payslip_view_template.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'APPPATH\\Views\\pages\\payslips\\payslip_view_template.php', 62)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\payslip_view_template.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/payslip_view_template', [], true)
+ 5 APPPATH\Controllers\Main.php(760): view('pages/payslips/payslip_view_template', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->fetchAllPayslips()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()

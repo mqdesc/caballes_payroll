@@ -1,0 +1,88 @@
+CRITICAL - 2024-07-15 08:41:54 --> Undefined variable: 93.75
+in APPPATH\Controllers\Main.php on line 675.
+ 1 APPPATH\Controllers\Main.php(675): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: 93.75', 'APPPATH\\Controllers\\Main.php', 675, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->payslip_view('40')
+ 3 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-15 13:34:36 --> Invalid file: pages/loans/list.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/loans/list.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/loans/list', [], true)
+ 3 APPPATH\Controllers\Main.php(687): view('pages/loans/list', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->loans()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-15 13:35:14 --> Invalid file: pages/loans/list.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/loans/list.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/loans/list', [], true)
+ 3 APPPATH\Controllers\Main.php(689): view('pages/loans/list', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->loans()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-15 13:35:49 --> Invalid file: pages/loans/list.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/loans/list.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/loans/list', [], true)
+ 3 APPPATH\Controllers\Main.php(689): view('pages/loans/list')
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->loans()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-15 13:35:56 --> Invalid file: pages/loans/list.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/loans/list.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/loans/list', [], true)
+ 3 APPPATH\Controllers\Main.php(689): view('pages/loans/list')
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->loans()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-15 13:37:52 --> Invalid file: pages/loans/list.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/loans/list.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/loans/list', [], true)
+ 3 APPPATH\Controllers\Main.php(689): view('pages/loans/list', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->loans()
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-15 13:41:29 --> Undefined variable: payslips
+in APPPATH\Views\pages\loans\list.php on line 35.
+ 1 APPPATH\Views\pages\loans\list.php(35): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: payslips', 'APPPATH\\Views\\pages\\loans\\list.php', 35, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\loans\\list.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/loans/list', [], true)
+ 5 APPPATH\Controllers\Main.php(689): view('pages/loans/list', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->loans()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-15 13:41:52 --> Undefined variable: payslips
+in APPPATH\Views\pages\loans\list.php on line 35.
+ 1 APPPATH\Views\pages\loans\list.php(35): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: payslips', 'APPPATH\\Views\\pages\\loans\\list.php', 35, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\loans\\list.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/loans/list', [], true)
+ 5 APPPATH\Controllers\Main.php(689): view('pages/loans/list', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->loans()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-15 16:46:56 --> Undefined index: loans
+in APPPATH\Controllers\Main.php on line 695.
+ 1 APPPATH\Controllers\Main.php(695): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: loans', 'APPPATH\\Controllers\\Main.php', 695, [])
+ 2 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->loans()
+ 3 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-15 16:47:09 --> Undefined index: loan
+in APPPATH\Controllers\Main.php on line 695.
+ 1 APPPATH\Controllers\Main.php(695): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: loan', 'APPPATH\\Controllers\\Main.php', 695, [])
+ 2 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->loans()
+ 3 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()

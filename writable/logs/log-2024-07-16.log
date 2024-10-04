@@ -1,0 +1,66 @@
+CRITICAL - 2024-07-16 11:30:22 --> Undefined variable: employees
+in APPPATH\Views\pages\loans\list.php on line 78.
+ 1 APPPATH\Views\pages\loans\list.php(78): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: employees', 'APPPATH\\Views\\pages\\loans\\list.php', 78, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\loans\\list.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/loans/list', [], true)
+ 5 APPPATH\Controllers\Main.php(698): view('pages/loans/list', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->loans()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-16 11:31:09 --> Undefined index: name
+in APPPATH\Views\pages\loans\list.php on line 79.
+ 1 APPPATH\Views\pages\loans\list.php(79): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: name', 'APPPATH\\Views\\pages\\loans\\list.php', 79, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\loans\\list.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/loans/list', [], true)
+ 5 APPPATH\Controllers\Main.php(701): view('pages/loans/list', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->loans()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-16 11:33:47 --> Undefined index: name
+in APPPATH\Views\pages\loans\list.php on line 79.
+ 1 APPPATH\Views\pages\loans\list.php(79): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: name', 'APPPATH\\Views\\pages\\loans\\list.php', 79, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\loans\\list.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/loans/list', [], true)
+ 5 APPPATH\Controllers\Main.php(701): view('pages/loans/list', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->loans()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-16 11:33:52 --> Undefined index: name
+in APPPATH\Views\pages\loans\list.php on line 79.
+ 1 APPPATH\Views\pages\loans\list.php(79): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: name', 'APPPATH\\Views\\pages\\loans\\list.php', 79, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\loans\\list.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/loans/list', [], true)
+ 5 APPPATH\Controllers\Main.php(701): view('pages/loans/list', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->loans()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-16 11:58:45 --> Undefined index: name
+in APPPATH\Views\pages\loans\list.php on line 78.
+ 1 APPPATH\Views\pages\loans\list.php(78): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: name', 'APPPATH\\Views\\pages\\loans\\list.php', 78, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\loans\\list.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/loans/list', [], true)
+ 5 APPPATH\Controllers\Main.php(701): view('pages/loans/list', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->loans()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-16 11:58:48 --> Undefined index: name
+in APPPATH\Views\pages\loans\list.php on line 78.
+ 1 APPPATH\Views\pages\loans\list.php(78): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: name', 'APPPATH\\Views\\pages\\loans\\list.php', 78, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\loans\\list.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/loans/list', [], true)
+ 5 APPPATH\Controllers\Main.php(701): view('pages/loans/list', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->loans()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,9 @@
+CRITICAL - 2024-07-11 16:16:12 --> syntax error, unexpected ','
+in APPPATH\Views\pages\payslips\view.php on line 80.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/view', [], true)
+ 3 APPPATH\Controllers\Main.php(614): view('pages/payslips/view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->payslip_view('31')
+ 5 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,427 @@
+CRITICAL - 2024-07-25 10:44:43 --> Undefined array key "total_loan"
+in APPPATH\Views\pages\payslips\add.php on line 41.
+ 1 APPPATH\Views\pages\payslips\add.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "total_loan"', 'APPPATH\\Views\\pages\\payslips\\add.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\add.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/add', [], true)
+ 5 APPPATH\Controllers\Main.php(598): view('pages/payslips/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->payslip_add()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-25 11:45:44 --> Undefined array key "total_loan"
+in APPPATH\Views\pages\payslips\add.php on line 41.
+ 1 APPPATH\Views\pages\payslips\add.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "total_loan"', 'APPPATH\\Views\\pages\\payslips\\add.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\add.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/add', [], true)
+ 5 APPPATH\Controllers\Main.php(668): view('pages/payslips/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->payslip_add()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-25 11:56:18 --> Undefined array key "total_loan"
+in APPPATH\Views\pages\payslips\add.php on line 41.
+ 1 APPPATH\Views\pages\payslips\add.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "total_loan"', 'APPPATH\\Views\\pages\\payslips\\add.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\add.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/add', [], true)
+ 5 APPPATH\Controllers\Main.php(602): view('pages/payslips/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->payslip_add()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-25 11:56:18 --> Undefined array key "total_loan"
+in APPPATH\Views\pages\payslips\add.php on line 41.
+ 1 APPPATH\Views\pages\payslips\add.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "total_loan"', 'APPPATH\\Views\\pages\\payslips\\add.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\add.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/add', [], true)
+ 5 APPPATH\Controllers\Main.php(602): view('pages/payslips/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->payslip_add()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-25 11:56:21 --> Undefined array key "total_loan"
+in APPPATH\Views\pages\payslips\add.php on line 41.
+ 1 APPPATH\Views\pages\payslips\add.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "total_loan"', 'APPPATH\\Views\\pages\\payslips\\add.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\add.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/add', [], true)
+ 5 APPPATH\Controllers\Main.php(602): view('pages/payslips/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->payslip_add()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-25 13:49:19 --> Undefined array key "total_loan"
+in APPPATH\Views\pages\payslips\add.php on line 41.
+ 1 APPPATH\Views\pages\payslips\add.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "total_loan"', 'APPPATH\\Views\\pages\\payslips\\add.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\add.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/add', [], true)
+ 5 APPPATH\Controllers\Main.php(602): view('pages/payslips/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->payslip_add()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-25 13:52:31 --> Undefined array key "total_loan"
+in APPPATH\Views\pages\payslips\add.php on line 41.
+ 1 APPPATH\Views\pages\payslips\add.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "total_loan"', 'APPPATH\\Views\\pages\\payslips\\add.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\add.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/add', [], true)
+ 5 APPPATH\Controllers\Main.php(602): view('pages/payslips/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->payslip_add()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-25 14:03:43 --> Undefined array key "total_loan"
+in APPPATH\Views\pages\payslips\add.php on line 41.
+ 1 APPPATH\Views\pages\payslips\add.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "total_loan"', 'APPPATH\\Views\\pages\\payslips\\add.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\add.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/add', [], true)
+ 5 APPPATH\Controllers\Main.php(602): view('pages/payslips/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->payslip_add()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-25 14:08:55 --> Undefined array key "total_loan"
+in APPPATH\Views\pages\payslips\add.php on line 41.
+ 1 APPPATH\Views\pages\payslips\add.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "total_loan"', 'APPPATH\\Views\\pages\\payslips\\add.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\add.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/add', [], true)
+ 5 APPPATH\Controllers\Main.php(602): view('pages/payslips/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->payslip_add()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-25 14:08:57 --> Undefined array key "total_loan"
+in APPPATH\Views\pages\payslips\add.php on line 41.
+ 1 APPPATH\Views\pages\payslips\add.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "total_loan"', 'APPPATH\\Views\\pages\\payslips\\add.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\add.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/add', [], true)
+ 5 APPPATH\Controllers\Main.php(602): view('pages/payslips/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->payslip_add()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-25 14:09:41 --> Undefined array key "total_loan"
+in APPPATH\Views\pages\payslips\add.php on line 41.
+ 1 APPPATH\Views\pages\payslips\add.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "total_loan"', 'APPPATH\\Views\\pages\\payslips\\add.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\add.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/add', [], true)
+ 5 APPPATH\Controllers\Main.php(602): view('pages/payslips/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->payslip_add()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-07-25 14:11:43 --> Unknown column 'loans.total_amount' in 'field list'
+CRITICAL - 2024-07-25 14:11:43 --> Unknown column 'loans.total_amount' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `employees`.*, CONCAT(employees.last_name, \', \', `employees`.`first_name`, COALESCE(CONCAT(\' \', employees.middle_name), \'\')) as `name`, COALESCE(SUM(loans.total_amount - loans.paid_amount), 0) as total_loan, COALESCE(MAX(loans.weeks_to_pay), 0) as weeks_to_pay
+FROM `employees`
+LEFT JOIN `loans` ON `loans`.`employee_id` = `employees`.`id`
+GROUP BY `employees`.`id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `employees`.*, CONCAT(employees.last_name, \', \', `employees`.`first_name`, COALESCE(CONCAT(\' \', employees.middle_name), \'\')) as `name`, COALESCE(SUM(loans.total_amount - loans.paid_amount), 0) as total_loan, COALESCE(MAX(loans.weeks_to_pay), 0) as weeks_to_pay
+FROM `employees`
+LEFT JOIN `loans` ON `loans`.`employee_id` = `employees`.`id`
+GROUP BY `employees`.`id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `employees`.*, CONCAT(employees.last_name, \', \', `employees`.`first_name`, COALESCE(CONCAT(\' \', employees.middle_name), \'\')) as `name`, COALESCE(SUM(loans.total_amount - loans.paid_amount), 0) as total_loan, COALESCE(MAX(loans.weeks_to_pay), 0) as weeks_to_pay
+FROM `employees`
+LEFT JOIN `loans` ON `loans`.`employee_id` = `employees`.`id`
+GROUP BY `employees`.`id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `employees`.*, CONCAT(employees.last_name, \', \', `employees`.`first_name`, COALESCE(CONCAT(\' \', employees.middle_name), \'\')) as `name`, COALESCE(SUM(loans.total_amount - loans.paid_amount), 0) as total_loan, COALESCE(MAX(loans.weeks_to_pay), 0) as weeks_to_pay
+FROM `employees`
+LEFT JOIN `loans` ON `loans`.`employee_id` = `employees`.`id`
+GROUP BY `employees`.`id`', [], false)
+ 5 SYSTEMPATH\Model.php(222): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Main.php(605): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->payslip_add()
+ 9 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+10 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-07-25 14:29:13 --> Unknown column 'loans.total_amount' in 'field list'
+CRITICAL - 2024-07-25 14:29:13 --> Unknown column 'loans.total_amount' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `employees`.*, CONCAT(employees.last_name, \', \', `employees`.`first_name`, COALESCE(CONCAT(\' \', employees.middle_name), \'\')) as `name`, COALESCE(SUM(loans.total_amount - loans.paid_amount), 0) as total_loan, COALESCE(MAX(loans.weeks_to_pay), 0) as weeks_to_pay
+FROM `employees`
+LEFT JOIN `loans` ON `loans`.`employee_id` = `employees`.`id`
+GROUP BY `employees`.`id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `employees`.*, CONCAT(employees.last_name, \', \', `employees`.`first_name`, COALESCE(CONCAT(\' \', employees.middle_name), \'\')) as `name`, COALESCE(SUM(loans.total_amount - loans.paid_amount), 0) as total_loan, COALESCE(MAX(loans.weeks_to_pay), 0) as weeks_to_pay
+FROM `employees`
+LEFT JOIN `loans` ON `loans`.`employee_id` = `employees`.`id`
+GROUP BY `employees`.`id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `employees`.*, CONCAT(employees.last_name, \', \', `employees`.`first_name`, COALESCE(CONCAT(\' \', employees.middle_name), \'\')) as `name`, COALESCE(SUM(loans.total_amount - loans.paid_amount), 0) as total_loan, COALESCE(MAX(loans.weeks_to_pay), 0) as weeks_to_pay
+FROM `employees`
+LEFT JOIN `loans` ON `loans`.`employee_id` = `employees`.`id`
+GROUP BY `employees`.`id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `employees`.*, CONCAT(employees.last_name, \', \', `employees`.`first_name`, COALESCE(CONCAT(\' \', employees.middle_name), \'\')) as `name`, COALESCE(SUM(loans.total_amount - loans.paid_amount), 0) as total_loan, COALESCE(MAX(loans.weeks_to_pay), 0) as weeks_to_pay
+FROM `employees`
+LEFT JOIN `loans` ON `loans`.`employee_id` = `employees`.`id`
+GROUP BY `employees`.`id`', [], false)
+ 5 SYSTEMPATH\Model.php(222): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Main.php(605): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->payslip_add()
+ 9 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+10 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-07-25 15:01:00 --> Unknown column 'loans.total_amount' in 'field list'
+CRITICAL - 2024-07-25 15:01:00 --> Unknown column 'loans.total_amount' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `employees`.*, CONCAT(employees.last_name, \', \', `employees`.`first_name`, COALESCE(CONCAT(\' \', employees.middle_name), \'\')) as `name`, COALESCE(SUM(loans.total_amount - loans.paid_amount), 0) as total_loan, COALESCE(MAX(loans.weeks_to_pay), 0) as weeks_to_pay
+FROM `employees`
+LEFT JOIN `loans` ON `loans`.`employee_id` = `employees`.`id`
+GROUP BY `employees`.`id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `employees`.*, CONCAT(employees.last_name, \', \', `employees`.`first_name`, COALESCE(CONCAT(\' \', employees.middle_name), \'\')) as `name`, COALESCE(SUM(loans.total_amount - loans.paid_amount), 0) as total_loan, COALESCE(MAX(loans.weeks_to_pay), 0) as weeks_to_pay
+FROM `employees`
+LEFT JOIN `loans` ON `loans`.`employee_id` = `employees`.`id`
+GROUP BY `employees`.`id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `employees`.*, CONCAT(employees.last_name, \', \', `employees`.`first_name`, COALESCE(CONCAT(\' \', employees.middle_name), \'\')) as `name`, COALESCE(SUM(loans.total_amount - loans.paid_amount), 0) as total_loan, COALESCE(MAX(loans.weeks_to_pay), 0) as weeks_to_pay
+FROM `employees`
+LEFT JOIN `loans` ON `loans`.`employee_id` = `employees`.`id`
+GROUP BY `employees`.`id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `employees`.*, CONCAT(employees.last_name, \', \', `employees`.`first_name`, COALESCE(CONCAT(\' \', employees.middle_name), \'\')) as `name`, COALESCE(SUM(loans.total_amount - loans.paid_amount), 0) as total_loan, COALESCE(MAX(loans.weeks_to_pay), 0) as weeks_to_pay
+FROM `employees`
+LEFT JOIN `loans` ON `loans`.`employee_id` = `employees`.`id`
+GROUP BY `employees`.`id`', [], false)
+ 5 SYSTEMPATH\Model.php(222): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Main.php(605): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->payslip_add()
+ 9 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+10 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-25 16:12:50 --> Undefined array key "total_loan"
+in APPPATH\Views\pages\payslips\add.php on line 41.
+ 1 APPPATH\Views\pages\payslips\add.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "total_loan"', 'APPPATH\\Views\\pages\\payslips\\add.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\add.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/add', [], true)
+ 5 APPPATH\Controllers\Main.php(602): view('pages/payslips/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->payslip_add()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-25 16:12:54 --> Undefined array key "total_loan"
+in APPPATH\Views\pages\payslips\add.php on line 41.
+ 1 APPPATH\Views\pages\payslips\add.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "total_loan"', 'APPPATH\\Views\\pages\\payslips\\add.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\add.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/add', [], true)
+ 5 APPPATH\Controllers\Main.php(602): view('pages/payslips/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->payslip_add()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-25 16:18:04 --> Unsupported operand types: string * string
+in APPPATH\Controllers\Main.php on line 566.
+ 1 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->payslip_add('$1')
+ 2 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-07-25 16:19:14 --> Cannot add or update a child row: a foreign key constraint fails (`payroll_db`.`payslips`, CONSTRAINT `payslips_payroll_id_foreign` FOREIGN KEY (`payroll_id`) REFERENCES `payrolls` (`id`) ON DELETE CASCADE)
+CRITICAL - 2024-07-25 16:19:14 --> Cannot add or update a child row: a foreign key constraint fails (`payroll_db`.`payslips`, CONSTRAINT `payslips_payroll_id_foreign` FOREIGN KEY (`payroll_id`) REFERENCES `payrolls` (`id`) ON DELETE CASCADE)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `payslips` (`salary`, `employee_id`, `witholding_tax`, `late_undertime`, `late_undertime_deduction`, `present`, `net`, `ot_rate`, `ot_hr`, `leg_rate`, `leg_hr`, `sp_rate`, `sp_hr`) VALUES (\'2838\', \'30\', \'\', \'0\', 0, \'48\', \'3354.000\', \'74\', \'9\', \'0\', \'0\', \'0\', \'0\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `payslips` (`salary`, `employee_id`, `witholding_tax`, `late_undertime`, `late_undertime_deduction`, `present`, `net`, `ot_rate`, `ot_hr`, `leg_rate`, `leg_hr`, `sp_rate`, `sp_hr`) VALUES (\'2838\', \'30\', \'\', \'0\', 0, \'48\', \'3354.000\', \'74\', \'9\', \'0\', \'0\', \'0\', \'0\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `payslips` (`salary`, `employee_id`, `witholding_tax`, `late_undertime`, `late_undertime_deduction`, `present`, `net`, `ot_rate`, `ot_hr`, `leg_rate`, `leg_hr`, `sp_rate`, `sp_hr`) VALUES (\'2838\', \'30\', \'\', \'0\', 0, \'48\', \'3354.000\', \'74\', \'9\', \'0\', \'0\', \'0\', \'0\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `payslips` (`salary`, `employee_id`, `witholding_tax`, `late_undertime`, `late_undertime_deduction`, `present`, `net`, `ot_rate`, `ot_hr`, `leg_rate`, `leg_hr`, `sp_rate`, `sp_hr`) VALUES (:salary:, :employee_id.1:, :witholding_tax:, :late_undertime:, :late_undertime_deduction:, :present:, :net:, :ot_rate:, :ot_hr:, :leg_rate:, :leg_hr:, :sp_rate:, :sp_hr:)', [...], false)
+ 5 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(658): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\Main.php(575): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->payslip_add('$1')
+11 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+12 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-07-25 16:19:37 --> Unknown column 'loans.amount' in 'field list'
+CRITICAL - 2024-07-25 16:19:37 --> Unknown column 'loans.amount' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `payslips`.*, CONCAT(employees.last_name, \', \', `employees`.`first_name`, COALESCE(CONCAT(\' \', employees.middle_name), \'\')) as `name`, `employees`.`code`, CONCAT(departments.code, \' - \', departments.name) as department, CONCAT(designations.code, \' - \', designations.name) as designation, `payrolls`.`code` as `payroll_code`, `payrolls`.`title` as `payroll_name`, `payslips`.`present`, `payslips`.`late_undertime`, `payslips`.`late_undertime_deduction`, `payslips`.`ot_rate`, `payslips`.`ot_hr`, `payslips`.`leg_rate`, `payslips`.`leg_hr`, `payslips`.`sp_rate`, `payslips`.`sp_hr`, `payslips`.`salary`, COALESCE(SUM(loans.amount), 0) as total_loan, COALESCE(MAX(loans.weeks_to_pay), 0) as weeks_to_pay
+FROM `payslips`
+INNER JOIN `payrolls` ON `payslips`.`payroll_id` = `payrolls`.`id`
+INNER JOIN `employees` ON `payslips`.`employee_id` = `employees`.`id`
+INNER JOIN `departments` ON `employees`.`department_id` = `departments`.`id`
+INNER JOIN `designations` ON `employees`.`designation_id` = `designations`.`id`
+LEFT JOIN `loans` ON `employees`.`id` = `loans`.`employee_id`
+WHERE `payslips`.`id` = 42
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `payslips`.*, CONCAT(employees.last_name, \', \', `employees`.`first_name`, COALESCE(CONCAT(\' \', employees.middle_name), \'\')) as `name`, `employees`.`code`, CONCAT(departments.code, \' - \', departments.name) as department, CONCAT(designations.code, \' - \', designations.name) as designation, `payrolls`.`code` as `payroll_code`, `payrolls`.`title` as `payroll_name`, `payslips`.`present`, `payslips`.`late_undertime`, `payslips`.`late_undertime_deduction`, `payslips`.`ot_rate`, `payslips`.`ot_hr`, `payslips`.`leg_rate`, `payslips`.`leg_hr`, `payslips`.`sp_rate`, `payslips`.`sp_hr`, `payslips`.`salary`, COALESCE(SUM(loans.amount), 0) as total_loan, COALESCE(MAX(loans.weeks_to_pay), 0) as weeks_to_pay
+FROM `payslips`
+INNER JOIN `payrolls` ON `payslips`.`payroll_id` = `payrolls`.`id`
+INNER JOIN `employees` ON `payslips`.`employee_id` = `employees`.`id`
+INNER JOIN `departments` ON `employees`.`department_id` = `departments`.`id`
+INNER JOIN `designations` ON `employees`.`designation_id` = `designations`.`id`
+LEFT JOIN `loans` ON `employees`.`id` = `loans`.`employee_id`
+WHERE `payslips`.`id` = 42
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `payslips`.*, CONCAT(employees.last_name, \', \', `employees`.`first_name`, COALESCE(CONCAT(\' \', employees.middle_name), \'\')) as `name`, `employees`.`code`, CONCAT(departments.code, \' - \', departments.name) as department, CONCAT(designations.code, \' - \', designations.name) as designation, `payrolls`.`code` as `payroll_code`, `payrolls`.`title` as `payroll_name`, `payslips`.`present`, `payslips`.`late_undertime`, `payslips`.`late_undertime_deduction`, `payslips`.`ot_rate`, `payslips`.`ot_hr`, `payslips`.`leg_rate`, `payslips`.`leg_hr`, `payslips`.`sp_rate`, `payslips`.`sp_hr`, `payslips`.`salary`, COALESCE(SUM(loans.amount), 0) as total_loan, COALESCE(MAX(loans.weeks_to_pay), 0) as weeks_to_pay
+FROM `payslips`
+INNER JOIN `payrolls` ON `payslips`.`payroll_id` = `payrolls`.`id`
+INNER JOIN `employees` ON `payslips`.`employee_id` = `employees`.`id`
+INNER JOIN `departments` ON `employees`.`department_id` = `departments`.`id`
+INNER JOIN `designations` ON `employees`.`designation_id` = `designations`.`id`
+LEFT JOIN `loans` ON `employees`.`id` = `loans`.`employee_id`
+WHERE `payslips`.`id` = 42
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `payslips`.*, CONCAT(employees.last_name, \', \', `employees`.`first_name`, COALESCE(CONCAT(\' \', employees.middle_name), \'\')) as `name`, `employees`.`code`, CONCAT(departments.code, \' - \', departments.name) as department, CONCAT(designations.code, \' - \', designations.name) as designation, `payrolls`.`code` as `payroll_code`, `payrolls`.`title` as `payroll_name`, `payslips`.`present`, `payslips`.`late_undertime`, `payslips`.`late_undertime_deduction`, `payslips`.`ot_rate`, `payslips`.`ot_hr`, `payslips`.`leg_rate`, `payslips`.`leg_hr`, `payslips`.`sp_rate`, `payslips`.`sp_hr`, `payslips`.`salary`, COALESCE(SUM(loans.amount), 0) as total_loan, COALESCE(MAX(loans.weeks_to_pay), 0) as weeks_to_pay
+FROM `payslips`
+INNER JOIN `payrolls` ON `payslips`.`payroll_id` = `payrolls`.`id`
+INNER JOIN `employees` ON `payslips`.`employee_id` = `employees`.`id`
+INNER JOIN `departments` ON `employees`.`department_id` = `departments`.`id`
+INNER JOIN `designations` ON `employees`.`designation_id` = `designations`.`id`
+LEFT JOIN `loans` ON `employees`.`id` = `loans`.`employee_id`
+WHERE `payslips`.`id` = 42
+ LIMIT 1', [], false)
+ 5 SYSTEMPATH\Model.php(249): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(622): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Controllers\Main.php(652): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->payslip_view('42')
+ 9 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+10 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-07-25 16:19:43 --> Unknown column 'loans.amount' in 'field list'
+CRITICAL - 2024-07-25 16:19:43 --> Unknown column 'loans.amount' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `payslips`.*, CONCAT(employees.last_name, \', \', `employees`.`first_name`, COALESCE(CONCAT(\' \', employees.middle_name), \'\')) as `name`, `employees`.`code`, CONCAT(departments.code, \' - \', departments.name) as department, CONCAT(designations.code, \' - \', designations.name) as designation, `payrolls`.`code` as `payroll_code`, `payrolls`.`title` as `payroll_name`, `payslips`.`present`, `payslips`.`late_undertime`, `payslips`.`late_undertime_deduction`, `payslips`.`ot_rate`, `payslips`.`ot_hr`, `payslips`.`leg_rate`, `payslips`.`leg_hr`, `payslips`.`sp_rate`, `payslips`.`sp_hr`, `payslips`.`salary`, COALESCE(SUM(loans.amount), 0) as total_loan, COALESCE(MAX(loans.weeks_to_pay), 0) as weeks_to_pay
+FROM `payslips`
+INNER JOIN `payrolls` ON `payslips`.`payroll_id` = `payrolls`.`id`
+INNER JOIN `employees` ON `payslips`.`employee_id` = `employees`.`id`
+INNER JOIN `departments` ON `employees`.`department_id` = `departments`.`id`
+INNER JOIN `designations` ON `employees`.`designation_id` = `designations`.`id`
+LEFT JOIN `loans` ON `employees`.`id` = `loans`.`employee_id`
+WHERE `payslips`.`id` = 41
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `payslips`.*, CONCAT(employees.last_name, \', \', `employees`.`first_name`, COALESCE(CONCAT(\' \', employees.middle_name), \'\')) as `name`, `employees`.`code`, CONCAT(departments.code, \' - \', departments.name) as department, CONCAT(designations.code, \' - \', designations.name) as designation, `payrolls`.`code` as `payroll_code`, `payrolls`.`title` as `payroll_name`, `payslips`.`present`, `payslips`.`late_undertime`, `payslips`.`late_undertime_deduction`, `payslips`.`ot_rate`, `payslips`.`ot_hr`, `payslips`.`leg_rate`, `payslips`.`leg_hr`, `payslips`.`sp_rate`, `payslips`.`sp_hr`, `payslips`.`salary`, COALESCE(SUM(loans.amount), 0) as total_loan, COALESCE(MAX(loans.weeks_to_pay), 0) as weeks_to_pay
+FROM `payslips`
+INNER JOIN `payrolls` ON `payslips`.`payroll_id` = `payrolls`.`id`
+INNER JOIN `employees` ON `payslips`.`employee_id` = `employees`.`id`
+INNER JOIN `departments` ON `employees`.`department_id` = `departments`.`id`
+INNER JOIN `designations` ON `employees`.`designation_id` = `designations`.`id`
+LEFT JOIN `loans` ON `employees`.`id` = `loans`.`employee_id`
+WHERE `payslips`.`id` = 41
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `payslips`.*, CONCAT(employees.last_name, \', \', `employees`.`first_name`, COALESCE(CONCAT(\' \', employees.middle_name), \'\')) as `name`, `employees`.`code`, CONCAT(departments.code, \' - \', departments.name) as department, CONCAT(designations.code, \' - \', designations.name) as designation, `payrolls`.`code` as `payroll_code`, `payrolls`.`title` as `payroll_name`, `payslips`.`present`, `payslips`.`late_undertime`, `payslips`.`late_undertime_deduction`, `payslips`.`ot_rate`, `payslips`.`ot_hr`, `payslips`.`leg_rate`, `payslips`.`leg_hr`, `payslips`.`sp_rate`, `payslips`.`sp_hr`, `payslips`.`salary`, COALESCE(SUM(loans.amount), 0) as total_loan, COALESCE(MAX(loans.weeks_to_pay), 0) as weeks_to_pay
+FROM `payslips`
+INNER JOIN `payrolls` ON `payslips`.`payroll_id` = `payrolls`.`id`
+INNER JOIN `employees` ON `payslips`.`employee_id` = `employees`.`id`
+INNER JOIN `departments` ON `employees`.`department_id` = `departments`.`id`
+INNER JOIN `designations` ON `employees`.`designation_id` = `designations`.`id`
+LEFT JOIN `loans` ON `employees`.`id` = `loans`.`employee_id`
+WHERE `payslips`.`id` = 41
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `payslips`.*, CONCAT(employees.last_name, \', \', `employees`.`first_name`, COALESCE(CONCAT(\' \', employees.middle_name), \'\')) as `name`, `employees`.`code`, CONCAT(departments.code, \' - \', departments.name) as department, CONCAT(designations.code, \' - \', designations.name) as designation, `payrolls`.`code` as `payroll_code`, `payrolls`.`title` as `payroll_name`, `payslips`.`present`, `payslips`.`late_undertime`, `payslips`.`late_undertime_deduction`, `payslips`.`ot_rate`, `payslips`.`ot_hr`, `payslips`.`leg_rate`, `payslips`.`leg_hr`, `payslips`.`sp_rate`, `payslips`.`sp_hr`, `payslips`.`salary`, COALESCE(SUM(loans.amount), 0) as total_loan, COALESCE(MAX(loans.weeks_to_pay), 0) as weeks_to_pay
+FROM `payslips`
+INNER JOIN `payrolls` ON `payslips`.`payroll_id` = `payrolls`.`id`
+INNER JOIN `employees` ON `payslips`.`employee_id` = `employees`.`id`
+INNER JOIN `departments` ON `employees`.`department_id` = `departments`.`id`
+INNER JOIN `designations` ON `employees`.`designation_id` = `designations`.`id`
+LEFT JOIN `loans` ON `employees`.`id` = `loans`.`employee_id`
+WHERE `payslips`.`id` = 41
+ LIMIT 1', [], false)
+ 5 SYSTEMPATH\Model.php(249): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(622): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Controllers\Main.php(652): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->payslip_view('41')
+ 9 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+10 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-07-25 16:19:53 --> Unknown column 'loans.amount' in 'field list'
+CRITICAL - 2024-07-25 16:19:53 --> Unknown column 'loans.amount' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `payslips`.*, CONCAT(employees.last_name, \', \', `employees`.`first_name`, COALESCE(CONCAT(\' \', employees.middle_name), \'\')) as `name`, `employees`.`code`, CONCAT(departments.code, \' - \', departments.name) as department, CONCAT(designations.code, \' - \', designations.name) as designation, `payrolls`.`code` as `payroll_code`, `payrolls`.`title` as `payroll_name`, `payslips`.`present`, `payslips`.`late_undertime`, `payslips`.`late_undertime_deduction`, `payslips`.`ot_rate`, `payslips`.`ot_hr`, `payslips`.`leg_rate`, `payslips`.`leg_hr`, `payslips`.`sp_rate`, `payslips`.`sp_hr`, `payslips`.`salary`, COALESCE(SUM(loans.amount), 0) as total_loan, COALESCE(MAX(loans.weeks_to_pay), 0) as weeks_to_pay
+FROM `payslips`
+INNER JOIN `payrolls` ON `payslips`.`payroll_id` = `payrolls`.`id`
+INNER JOIN `employees` ON `payslips`.`employee_id` = `employees`.`id`
+INNER JOIN `departments` ON `employees`.`department_id` = `departments`.`id`
+INNER JOIN `designations` ON `employees`.`designation_id` = `designations`.`id`
+LEFT JOIN `loans` ON `employees`.`id` = `loans`.`employee_id`
+WHERE `payslips`.`id` = 42
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `payslips`.*, CONCAT(employees.last_name, \', \', `employees`.`first_name`, COALESCE(CONCAT(\' \', employees.middle_name), \'\')) as `name`, `employees`.`code`, CONCAT(departments.code, \' - \', departments.name) as department, CONCAT(designations.code, \' - \', designations.name) as designation, `payrolls`.`code` as `payroll_code`, `payrolls`.`title` as `payroll_name`, `payslips`.`present`, `payslips`.`late_undertime`, `payslips`.`late_undertime_deduction`, `payslips`.`ot_rate`, `payslips`.`ot_hr`, `payslips`.`leg_rate`, `payslips`.`leg_hr`, `payslips`.`sp_rate`, `payslips`.`sp_hr`, `payslips`.`salary`, COALESCE(SUM(loans.amount), 0) as total_loan, COALESCE(MAX(loans.weeks_to_pay), 0) as weeks_to_pay
+FROM `payslips`
+INNER JOIN `payrolls` ON `payslips`.`payroll_id` = `payrolls`.`id`
+INNER JOIN `employees` ON `payslips`.`employee_id` = `employees`.`id`
+INNER JOIN `departments` ON `employees`.`department_id` = `departments`.`id`
+INNER JOIN `designations` ON `employees`.`designation_id` = `designations`.`id`
+LEFT JOIN `loans` ON `employees`.`id` = `loans`.`employee_id`
+WHERE `payslips`.`id` = 42
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `payslips`.*, CONCAT(employees.last_name, \', \', `employees`.`first_name`, COALESCE(CONCAT(\' \', employees.middle_name), \'\')) as `name`, `employees`.`code`, CONCAT(departments.code, \' - \', departments.name) as department, CONCAT(designations.code, \' - \', designations.name) as designation, `payrolls`.`code` as `payroll_code`, `payrolls`.`title` as `payroll_name`, `payslips`.`present`, `payslips`.`late_undertime`, `payslips`.`late_undertime_deduction`, `payslips`.`ot_rate`, `payslips`.`ot_hr`, `payslips`.`leg_rate`, `payslips`.`leg_hr`, `payslips`.`sp_rate`, `payslips`.`sp_hr`, `payslips`.`salary`, COALESCE(SUM(loans.amount), 0) as total_loan, COALESCE(MAX(loans.weeks_to_pay), 0) as weeks_to_pay
+FROM `payslips`
+INNER JOIN `payrolls` ON `payslips`.`payroll_id` = `payrolls`.`id`
+INNER JOIN `employees` ON `payslips`.`employee_id` = `employees`.`id`
+INNER JOIN `departments` ON `employees`.`department_id` = `departments`.`id`
+INNER JOIN `designations` ON `employees`.`designation_id` = `designations`.`id`
+LEFT JOIN `loans` ON `employees`.`id` = `loans`.`employee_id`
+WHERE `payslips`.`id` = 42
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `payslips`.*, CONCAT(employees.last_name, \', \', `employees`.`first_name`, COALESCE(CONCAT(\' \', employees.middle_name), \'\')) as `name`, `employees`.`code`, CONCAT(departments.code, \' - \', departments.name) as department, CONCAT(designations.code, \' - \', designations.name) as designation, `payrolls`.`code` as `payroll_code`, `payrolls`.`title` as `payroll_name`, `payslips`.`present`, `payslips`.`late_undertime`, `payslips`.`late_undertime_deduction`, `payslips`.`ot_rate`, `payslips`.`ot_hr`, `payslips`.`leg_rate`, `payslips`.`leg_hr`, `payslips`.`sp_rate`, `payslips`.`sp_hr`, `payslips`.`salary`, COALESCE(SUM(loans.amount), 0) as total_loan, COALESCE(MAX(loans.weeks_to_pay), 0) as weeks_to_pay
+FROM `payslips`
+INNER JOIN `payrolls` ON `payslips`.`payroll_id` = `payrolls`.`id`
+INNER JOIN `employees` ON `payslips`.`employee_id` = `employees`.`id`
+INNER JOIN `departments` ON `employees`.`department_id` = `departments`.`id`
+INNER JOIN `designations` ON `employees`.`designation_id` = `designations`.`id`
+LEFT JOIN `loans` ON `employees`.`id` = `loans`.`employee_id`
+WHERE `payslips`.`id` = 42
+ LIMIT 1', [], false)
+ 5 SYSTEMPATH\Model.php(249): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(622): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Controllers\Main.php(652): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->payslip_view('42')
+ 9 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+10 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-07-25 16:20:49 --> Unknown column 'loans.amount' in 'field list'
+CRITICAL - 2024-07-25 16:20:49 --> Unknown column 'loans.amount' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `payslips`.*, CONCAT(employees.last_name, \', \', `employees`.`first_name`, COALESCE(CONCAT(\' \', employees.middle_name), \'\')) as `name`, `employees`.`code`, CONCAT(departments.code, \' - \', departments.name) as department, CONCAT(designations.code, \' - \', designations.name) as designation, `payrolls`.`code` as `payroll_code`, `payrolls`.`title` as `payroll_name`, `payslips`.`present`, `payslips`.`late_undertime`, `payslips`.`late_undertime_deduction`, `payslips`.`ot_rate`, `payslips`.`ot_hr`, `payslips`.`leg_rate`, `payslips`.`leg_hr`, `payslips`.`sp_rate`, `payslips`.`sp_hr`, `payslips`.`salary`, COALESCE(SUM(loans.amount), 0) as total_loan, COALESCE(MAX(loans.weeks_to_pay), 0) as weeks_to_pay
+FROM `payslips`
+INNER JOIN `payrolls` ON `payslips`.`payroll_id` = `payrolls`.`id`
+INNER JOIN `employees` ON `payslips`.`employee_id` = `employees`.`id`
+INNER JOIN `departments` ON `employees`.`department_id` = `departments`.`id`
+INNER JOIN `designations` ON `employees`.`designation_id` = `designations`.`id`
+LEFT JOIN `loans` ON `employees`.`id` = `loans`.`employee_id`
+WHERE `payslips`.`id` = 31
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `payslips`.*, CONCAT(employees.last_name, \', \', `employees`.`first_name`, COALESCE(CONCAT(\' \', employees.middle_name), \'\')) as `name`, `employees`.`code`, CONCAT(departments.code, \' - \', departments.name) as department, CONCAT(designations.code, \' - \', designations.name) as designation, `payrolls`.`code` as `payroll_code`, `payrolls`.`title` as `payroll_name`, `payslips`.`present`, `payslips`.`late_undertime`, `payslips`.`late_undertime_deduction`, `payslips`.`ot_rate`, `payslips`.`ot_hr`, `payslips`.`leg_rate`, `payslips`.`leg_hr`, `payslips`.`sp_rate`, `payslips`.`sp_hr`, `payslips`.`salary`, COALESCE(SUM(loans.amount), 0) as total_loan, COALESCE(MAX(loans.weeks_to_pay), 0) as weeks_to_pay
+FROM `payslips`
+INNER JOIN `payrolls` ON `payslips`.`payroll_id` = `payrolls`.`id`
+INNER JOIN `employees` ON `payslips`.`employee_id` = `employees`.`id`
+INNER JOIN `departments` ON `employees`.`department_id` = `departments`.`id`
+INNER JOIN `designations` ON `employees`.`designation_id` = `designations`.`id`
+LEFT JOIN `loans` ON `employees`.`id` = `loans`.`employee_id`
+WHERE `payslips`.`id` = 31
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `payslips`.*, CONCAT(employees.last_name, \', \', `employees`.`first_name`, COALESCE(CONCAT(\' \', employees.middle_name), \'\')) as `name`, `employees`.`code`, CONCAT(departments.code, \' - \', departments.name) as department, CONCAT(designations.code, \' - \', designations.name) as designation, `payrolls`.`code` as `payroll_code`, `payrolls`.`title` as `payroll_name`, `payslips`.`present`, `payslips`.`late_undertime`, `payslips`.`late_undertime_deduction`, `payslips`.`ot_rate`, `payslips`.`ot_hr`, `payslips`.`leg_rate`, `payslips`.`leg_hr`, `payslips`.`sp_rate`, `payslips`.`sp_hr`, `payslips`.`salary`, COALESCE(SUM(loans.amount), 0) as total_loan, COALESCE(MAX(loans.weeks_to_pay), 0) as weeks_to_pay
+FROM `payslips`
+INNER JOIN `payrolls` ON `payslips`.`payroll_id` = `payrolls`.`id`
+INNER JOIN `employees` ON `payslips`.`employee_id` = `employees`.`id`
+INNER JOIN `departments` ON `employees`.`department_id` = `departments`.`id`
+INNER JOIN `designations` ON `employees`.`designation_id` = `designations`.`id`
+LEFT JOIN `loans` ON `employees`.`id` = `loans`.`employee_id`
+WHERE `payslips`.`id` = 31
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `payslips`.*, CONCAT(employees.last_name, \', \', `employees`.`first_name`, COALESCE(CONCAT(\' \', employees.middle_name), \'\')) as `name`, `employees`.`code`, CONCAT(departments.code, \' - \', departments.name) as department, CONCAT(designations.code, \' - \', designations.name) as designation, `payrolls`.`code` as `payroll_code`, `payrolls`.`title` as `payroll_name`, `payslips`.`present`, `payslips`.`late_undertime`, `payslips`.`late_undertime_deduction`, `payslips`.`ot_rate`, `payslips`.`ot_hr`, `payslips`.`leg_rate`, `payslips`.`leg_hr`, `payslips`.`sp_rate`, `payslips`.`sp_hr`, `payslips`.`salary`, COALESCE(SUM(loans.amount), 0) as total_loan, COALESCE(MAX(loans.weeks_to_pay), 0) as weeks_to_pay
+FROM `payslips`
+INNER JOIN `payrolls` ON `payslips`.`payroll_id` = `payrolls`.`id`
+INNER JOIN `employees` ON `payslips`.`employee_id` = `employees`.`id`
+INNER JOIN `departments` ON `employees`.`department_id` = `departments`.`id`
+INNER JOIN `designations` ON `employees`.`designation_id` = `designations`.`id`
+LEFT JOIN `loans` ON `employees`.`id` = `loans`.`employee_id`
+WHERE `payslips`.`id` = 31
+ LIMIT 1', [], false)
+ 5 SYSTEMPATH\Model.php(249): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(622): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Controllers\Main.php(652): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->payslip_view('31')
+ 9 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+10 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,11 @@
+CRITICAL - 2024-07-18 10:29:11 --> Undefined variable: employee
+in APPPATH\Views\pages\loans\list.php on line 42.
+ 1 APPPATH\Views\pages\loans\list.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: employee', 'APPPATH\\Views\\pages\\loans\\list.php', 42, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\loans\\list.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/loans/list', [], true)
+ 5 APPPATH\Controllers\Main.php(702): view('pages/loans/list', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->loans()
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()

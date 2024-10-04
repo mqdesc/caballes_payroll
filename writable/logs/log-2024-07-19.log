@@ -1,0 +1,77 @@
+CRITICAL - 2024-07-19 14:52:10 --> Division by zero
+in APPPATH\Controllers\Main.php on line 702.
+ 1 APPPATH\Controllers\Main.php(702): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Division by zero', 'APPPATH\\Controllers\\Main.php', 702, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->loans()
+ 3 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-19 15:05:09 --> Division by zero
+in APPPATH\Controllers\Main.php on line 702.
+ 1 APPPATH\Controllers\Main.php(702): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Division by zero', 'APPPATH\\Controllers\\Main.php', 702, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->loans()
+ 3 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-19 15:05:12 --> Division by zero
+in APPPATH\Controllers\Main.php on line 702.
+ 1 APPPATH\Controllers\Main.php(702): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Division by zero', 'APPPATH\\Controllers\\Main.php', 702, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->loans()
+ 3 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-19 15:05:13 --> Division by zero
+in APPPATH\Controllers\Main.php on line 702.
+ 1 APPPATH\Controllers\Main.php(702): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Division by zero', 'APPPATH\\Controllers\\Main.php', 702, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->loans()
+ 3 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-19 15:05:14 --> Division by zero
+in APPPATH\Controllers\Main.php on line 702.
+ 1 APPPATH\Controllers\Main.php(702): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Division by zero', 'APPPATH\\Controllers\\Main.php', 702, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->loans()
+ 3 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-19 15:05:15 --> Division by zero
+in APPPATH\Controllers\Main.php on line 702.
+ 1 APPPATH\Controllers\Main.php(702): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Division by zero', 'APPPATH\\Controllers\\Main.php', 702, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->loans()
+ 3 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-19 15:05:15 --> Division by zero
+in APPPATH\Controllers\Main.php on line 702.
+ 1 APPPATH\Controllers\Main.php(702): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Division by zero', 'APPPATH\\Controllers\\Main.php', 702, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->loans()
+ 3 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-19 15:05:17 --> Division by zero
+in APPPATH\Controllers\Main.php on line 702.
+ 1 APPPATH\Controllers\Main.php(702): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Division by zero', 'APPPATH\\Controllers\\Main.php', 702, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->loans()
+ 3 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-19 15:09:13 --> Undefined variable: loan
+in APPPATH\Controllers\Main.php on line 717.
+ 1 APPPATH\Controllers\Main.php(717): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: loan', 'APPPATH\\Controllers\\Main.php', 717, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->addLoan('$1')
+ 3 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-19 15:14:02 --> Undefined variable: monthsPay
+in APPPATH\Controllers\Main.php on line 715.
+ 1 APPPATH\Controllers\Main.php(715): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: monthsPay', 'APPPATH\\Controllers\\Main.php', 715, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->addLoan('$1')
+ 3 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-07-19 15:14:47 --> Undefined variable: loanAmount
+in APPPATH\Controllers\Main.php on line 700.
+ 1 APPPATH\Controllers\Main.php(700): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: loanAmount', 'APPPATH\\Controllers\\Main.php', 700, [])
+ 2 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->loans()
+ 3 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()

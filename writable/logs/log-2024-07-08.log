@@ -1,0 +1,11 @@
+CRITICAL - 2024-07-08 14:57:39 --> Undefined variable: row
+in APPPATH\Views\pages\payslips\view.php on line 52.
+ 1 APPPATH\Views\pages\payslips\view.php(52): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: row', 'APPPATH\\Views\\pages\\payslips\\view.php', 52, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\payslips\\view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/payslips/view', [], true)
+ 5 APPPATH\Controllers\Main.php(589): view('pages/payslips/view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(900): App\Controllers\Main->payslip_view('7')
+ 7 SYSTEMPATH\CodeIgniter.php(470): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
